@@ -1,0 +1,8 @@
+DEEPSORT:
+  MODEL_TYPE: "osnet_x_25"
+  REID_CKPT: "osnet_x0_25_market1501.pt"
+  MAX_DIST: 0.2
+  MAX_IOU_DISTANCE: 0.7
+  MAX_AGE: 30
+  N_INIT: 3
+  NN_BUDGET: 100
