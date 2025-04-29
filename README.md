@@ -1,1 +1,1 @@
-## Contributers: Lubaina Malvi, Willem Shak, Yining Tao
+### Contributers: Lubaina Malvi, Willem Shak, Yining Tao
