@@ -1,2 +1,2 @@
-Practical Neural Networks
-### Contributers: Lubaina Malvi, Willem Shak, Yining Tao
+### Practical Neural Networks
+Contributers: Lubaina Malvi, Willem Shak, Yining Tao
